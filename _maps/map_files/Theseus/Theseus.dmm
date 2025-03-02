@@ -15248,6 +15248,9 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable/yellow{
+	icon_state = "68"
+	},
 /turf/open/floor/iron,
 /area/station/hallway/primary/aft)
 "fCV" = (
@@ -19542,6 +19545,15 @@
 	},
 /turf/closed/wall/prepainted/daedalus,
 /area/station/security/courtroom)
+"hoM" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/overfloor_catwalk/iron_dark,
+/obj/structure/cable/yellow{
+	icon_state = "10"
+	},
+/turf/open/floor/plating,
+/area/station/service/janitor)
 "hoN" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -21066,6 +21078,17 @@
 	},
 /turf/open/floor/wood,
 /area/station/medical/psychology)
+"hWW" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable/yellow{
+	icon_state = "3"
+	},
+/obj/structure/cable/yellow{
+	icon_state = "34"
+	},
+/turf/open/floor/iron,
+/area/station/hallway/primary/aft)
 "hWZ" = (
 /obj/machinery/door/airlock/external{
 	name = "Solar Maintenance";
@@ -32824,6 +32847,9 @@
 /obj/machinery/camera/directional/west{
 	c_tag = "Custodial Closet"
 	},
+/obj/structure/cable/yellow{
+	icon_state = "1"
+	},
 /turf/open/floor/iron,
 /area/station/service/janitor)
 "mqo" = (
@@ -42601,6 +42627,9 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable/yellow{
+	icon_state = "12"
+	},
 /turf/open/floor/iron,
 /area/station/service/janitor)
 "pRf" = (
@@ -95663,7 +95692,7 @@ bZK
 bZK
 gNa
 bZK
-bZK
+hWW
 bZK
 xLD
 bZK
@@ -96435,7 +96464,7 @@ cKc
 aLs
 acg
 nRZ
-qGh
+hoM
 mqi
 thq
 eBp
